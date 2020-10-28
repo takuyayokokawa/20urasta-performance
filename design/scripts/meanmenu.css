@@ -177,3 +177,7 @@ a.meanmenu-reveal {
 .mean-remove {
 	display: none !important;
 }
+
+.mean-container{
+	height: auto;
+}
