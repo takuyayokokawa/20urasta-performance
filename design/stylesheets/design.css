@@ -3,7 +3,7 @@
 /* 全体 */
 
 body {
-	font-family: "source-han-sans-japanese",  "frank-new";
+	font-family: "source-han-sans-japanese",  "frank-new" sans-serif;
 	font-size: 16px;
 	background-color: #333;
 	
