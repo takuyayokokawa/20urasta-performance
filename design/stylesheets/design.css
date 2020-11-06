@@ -470,6 +470,33 @@ footer{
 		 font-size:30px;
 		 font-weight: solid;
 	   }
+	
+	/*準備日・当日シフトcss(佳乃)*/
+	@media screen and (max-width: 1024px) {
+		.triangle{
+			display: none;
+		}
+
+		.sparkle{
+			display: none;
+		}
+	}
+
+.design {
+	position: relative;
+	background-color:#fff;
+	width: 100%;
+	height: auto;
+	padding-top: 10%;
+  }
+  .triangle {
+    position: absolute;
+    left: 0;
+  }
+  .sparkle {
+    position: absolute;
+    right: 0;
+  }
 
 
 
